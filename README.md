@@ -1,4 +1,4 @@
-# DS_Toolkit
+# DS Toolkit
 Some tips and tricks on Data Science Toolkit (Pandas, Numpy, APIs, etc). 
 
 ## Pandas 
